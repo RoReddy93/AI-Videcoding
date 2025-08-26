@@ -1,0 +1,54 @@
+{
+  "XAG": {
+    "EUR": {
+      "base": "XAG",
+      "quote": "EUR",
+      "rate": 33.090102720999994,
+      "timestamp": 1756236962
+    },
+    "GBP": {
+      "base": "XAG",
+      "quote": "GBP",
+      "rate": 28.596346973999996,
+      "timestamp": 1756236962
+    },
+    "JPY": {
+      "base": "XAG",
+      "quote": "JPY",
+      "rate": 5684.016689,
+      "timestamp": 1756236962
+    },
+    "USD": {
+      "base": "XAG",
+      "quote": "USD",
+      "rate": 38.5697,
+      "timestamp": 1756236962
+    }
+  },
+  "XAU": {
+    "EUR": {
+      "base": "XAU",
+      "quote": "EUR",
+      "rate": 2906.922074175,
+      "timestamp": 1756236962
+    },
+    "GBP": {
+      "base": "XAU",
+      "quote": "GBP",
+      "rate": 2512.15153245,
+      "timestamp": 1756236962
+    },
+    "JPY": {
+      "base": "XAU",
+      "quote": "JPY",
+      "rate": 499333.402575,
+      "timestamp": 1756236962
+    },
+    "USD": {
+      "base": "XAU",
+      "quote": "USD",
+      "rate": 3388.2975,
+      "timestamp": 1756236962
+    }
+  }
+}

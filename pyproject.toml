@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "metal-prices"
+version = "0.1.0"
+description = "Track global gold (XAU) and silver (XAG) prices across currencies"
+authors = [{ name = "AI" }]
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.scripts]
+metal-prices = "metal_prices.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
